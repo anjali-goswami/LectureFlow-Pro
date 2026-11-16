@@ -1,0 +1,4 @@
+{
+  "terminal.integrated.windowsEnableConpty": false,
+  "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
